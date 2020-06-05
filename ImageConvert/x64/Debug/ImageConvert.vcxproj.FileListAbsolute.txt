@@ -1,0 +1,2 @@
+D:\~work\_test\argus\ImageConvert\x64\Debug\ImageConvert.exe
+D:\~work\_test\argus\ImageConvert\x64\Debug\ImageConvert.pdb

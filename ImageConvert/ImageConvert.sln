@@ -9,8 +9,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageConvertUnitTest", "..\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageConvertLib", "..\ImageConvertLib\ImageConvertLib.vcxproj", "{8464A327-315E-48CC-921A-02BB49878E1E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ThirdPrts", "ThirdPrts", "{7CA18C00-E482-4BCB-ADA7-76577BE4F814}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
